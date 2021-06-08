@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Registro ventas</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_dasboard">Dasboard</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_pedidos">Pedidos</string>
+    <string name="menu_consultaPedidos">Consulta Pedidos</string>
+    <string name="menu_articulos">Articulos</string>
+    <string name="menu_cambiarClave">Cambiar Clave</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_group">Group</string>
+
+    <string name="activity_crear_clientes">Crear Clientes</string>
+    <string name="activity_consultar_clientes">Consultar Clientes</string>
+    <string name="activity_modificar_clientes">Modificar Clientes</string>
+    <string name="activity_titulo_clientes">Clientes</string>
+
+    <string name="activity_crear_pedidos">Crear Pedido</string>
+    <string name="activity_consultar_pedidos">Modificar Pedido</string>
+    <string name="activity_modificar_pedidos">Anular Pedido</string>
+    <string name="activity_titulo_pedidos">Pedido</string>
+
+    <string name="activity_titulo_consultar_pedidos">Consultar</string>
+    <string name="activity_consultar_documento">Documento</string>
+    <string name="activity_consultar_nombre_comercial">Nombre Comercial</string>
+    <string name="activity_consultar_ultimo_pedido_vendedor">Ultimo Pedido (v)</string>
+    <string name="activity_consultar_ultimo_pedido_cliente">Ultimo Pedido (c)</string>
+    <string name="activity_consultar_caja_buscar">Descripcion o codigo</string>
+    <string name="activity_consultar_boton_buscar">Buscar</string>
+
+
+    <string name="activity_nueva_clave">Nueva Clave</string>
+    <string name="activity_confima_clave">Confirma Clave</string>
+    <string name="activity_actualizar_clave">Actualizar</string>
+    <string name="activity_titulo_clave">Actualizar</string>
+
+    <string name="activity_titulo_crear_cliente">Crear Cliente</string>
+
+
+    <string name="title_click">Title click</string>
+
+
+
+</resources>
